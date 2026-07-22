@@ -1,0 +1,13 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="16" fill="#E85D2C"/>
+  <g transform="translate(16, 12)">
+    <ellipse cx="24" cy="38" rx="20" ry="16" fill="#FFF3E0"/>
+    <circle cx="24" cy="30" r="12" fill="#FFF3E0"/>
+    <circle cx="18" cy="26" r="1.5" fill="#333"/>
+    <circle cx="30" cy="26" r="1.5" fill="#333"/>
+    <polygon points="24,34 20,28 28,28" fill="#E85D2C"/>
+    <ellipse cx="38" cy="40" rx="8" ry="5" fill="#FFF3E0" transform="rotate(-20 38 40)"/>
+    <path d="M8 30 Q2 20 6 12 Q10 8 14 12 Q10 20 8 30" fill="#E85D2C"/>
+    <path d="M40 30 Q46 20 42 12 Q38 8 34 12 Q38 20 40 30" fill="#E85D2C"/>
+  </g>
+</svg>

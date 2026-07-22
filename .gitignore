@@ -1,0 +1,16 @@
+node_modules/
+frontend/node_modules/
+.git/
+*.log
+lms/__pycache__/
+lms/**/*.pyc
+lms/**/__pycache__/
+__pycache__/
+*.pyc
+.env
+.env.local
+dist/
+build/
+.next/
+out/
+.DS_Store
